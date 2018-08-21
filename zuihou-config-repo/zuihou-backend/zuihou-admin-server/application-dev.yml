@@ -26,7 +26,7 @@ zuihou:
     host: zuihou.mysql.host     # 根据环境更改
     port: 3306                  # 根据环境更改
     username: root              # 根据环境更改
-    password: bNVOqb7WKLX5Bjnw+LMv92taj25KOxDimXxILPQjw42wgv+1lHzOH8kr97xDwWdhpY67QuYCS7sWN4W46YbkFA==
+    password: root
 # rabbitMQ/Mysql/Redis ip，端口，帐号等根据环境自行修改。
 
 id-generator:
